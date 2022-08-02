@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    }
+
+.header{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    background-color: rgba(46, 148, 138, 1);
+    color: white;
+}
+.logo-header{
+    margin-top: 2%;
+    margin-left: 7%;
+    margin-bottom: 2%;
+}
+ul.nav li{
+    margin-top: 12%;
+    margin-inline: 2%;
+    font-size: 15pt;
+    font-weight: 700;
+    line-height: 23px;
+    display: inline-flex;
+    cursor: pointer;
+}
+ul.nav li a{
+    color: white;
+}
+.p2{
+    background-color: white;
+    color: rgba(255, 64, 129, 1);
+    font-weight: 300;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.investimento{
+    margin-top: 8%;
+    margin-left: 20%;
+    margin-bottom:10%;
+}
+.chess{
+    margin-left: 16%;
+    font-weight: 300;
+}
+.chess h1{
+    font-size: 40pt;
+    line-height: 50pt;
+    margin-top: 10%;
+    color: rgba(255, 64, 129, 1);
+}
+.chess p{
+    color: black;
+    margin-left: 0%;
+    font-size: 18pt;
+    line-height: 20pt;
+    text-align: justify;
+    margin-right: 12%;
+}
+.bgg{background-color: #e1e1e1}
+.va{display:grid; grid-template-columns:1fr 1fr;}
+.va iframe{display:flex; margin-top:15%; margin-left:8%;}
+.inv{margin-top:15%;margin-left:-8%;}
+.inv h2{color: rgba(255, 64, 129, 1); font-size: 26pt;}
+.inv p{margin-right: 20%;}
+.inv2{margin-top:15%;margin-left:-8%;}
+.inv2 h2{color: rgba(255, 64, 129, 1); font-size: 26pt;}
+.inv2 p{margin-right: 20%;}
+.inv3{margin-top:15%;margin-left:-8%;}
+.inv3 h2{color: rgba(255, 64, 129, 1); font-size: 26pt;}
+.inv3 p{margin-right: 20%; margin-bottom: 25%;}
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgba(46, 148, 138, 1);
+    color: white;
+}
+.logo-footer{
+    margin-top: 8%;    
+    margin-bottom: 6%;
+    margin-left: 15%;
+}
+.nav-bot{
+    margin-top: 10%;
+    line-height: 20pt;
+    font-weight: 300;
+    list-style: none;
+    font-size: 17pt;
+}
+ul.nav-bot li a{
+    color: white;
+}
+.area2{
+    margin-top: 6%;
+    margin-bottom: 6%;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 12px;
+}
+.button{
+    align-items: center;
+    justify-content: center;
+    padding: 15px 75px 15px 75px;
+    font-size: 17pt;
+    border: 2px solid white;
+    border-radius: 48px;
+}
+.button2{
+    padding: 15px 50px 15px 50px;
+    font-size: 17pt;
+    border: 2px solid white;
+    border-radius: 48px;
+}

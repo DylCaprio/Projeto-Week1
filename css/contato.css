@@ -1,0 +1,24 @@
+*{margin:0%; font-family:'Ubuntu', sans-serif; text-decoration:none;}
+.header{display:grid; grid-template-columns:70% 30%; background-color:rgba(46, 148, 138, 1);color:white;}
+.logo-header{margin-top:2%; margin-left:7%; margin-bottom:2%;}
+ul.nav li{margin-top:12%; margin-inline:2%; font-size:15pt; font-weight:700; line-height:23px; display:inline-flex;
+cursor: pointer;}
+ul.nav li a{color:white;}
+.ctt{display: flex;}
+.ict{margin-left:10%; margin-top:5%; margin-bottom:5%;}
+.lf{display:flex; flex-direction:column; margin-top:4%; margin-left:8%;}
+.ctt h2{font-size:36pt; line-height:40pt; color:rgba(255, 64, 129, 1);}
+.tf1 input{margin-top:5%; text-align:left; font-size:14pt; line-height:18pt; padding:5px 30px 5px; 
+padding-right:200px; border-radius:10px; border:1px solid rgba(104, 104, 104, 1);}
+.tf2 input{margin-top:1%; text-align:left; font-size:14pt; line-height:18pt; padding:5px 30px 5px;
+padding-right:200px; border-radius:10px; border:1px solid rgba(104, 104, 104, 1);}
+.tf3 input{margin-top:1%; text-align:left; font-size:14pt; line-height:18pt; padding:15px 30px 200px;
+padding-right:200px; border-radius:10px; border:1px solid rgba(104, 104, 104, 1);}
+.btn{margin-top:4%; margin-left:1%; margin-right: 60%; font-size: 18pt; color:white; border-radius:48px; background-color:rgba(255, 64, 129, 1); padding:10px 10px 10px 63px;}
+.footer{ display:grid; grid-template-columns:1fr 1fr 1fr; background-color:rgba(46, 148, 138, 1); color:white;}
+.logo-footer{ margin-top:8%; margin-bottom:6%; margin-left:15%;}
+.nav-bot{margin-top:10%; line-height:20pt; font-weight:300; list-style:none; font-size:17pt;}
+ul.nav-bot li a{color:white;}
+.area2{margin-top:6%; margin-bottom:6%; font-weight:300; display:flex; flex-direction:column; align-items:center;row-gap:12px;}
+.button{align-items:center; justify-content:center; padding:15px 75px 15px 75px; font-size:17pt; border:2px solid white; border-radius:48px;}
+.button2{padding:15px 50px 15px 50px; font-size:17pt; border:2px solid white; border-radius:48px;}

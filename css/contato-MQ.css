@@ -1,0 +1,27 @@
+@media screen and (max-width: 844px)
+{*{margin: 0%;font-family: 'Ubuntu', sans-serif;text-decoration: none;}
+.header{display:flex; flex-direction:column; background-color:rgba(46, 148, 138, 1); color:white;}
+.logo-header{ margin-top:10%; margin-left:22%; margin-bottom:-5%; max-width:200px; width:auto; height:auto;}
+.nav{margin-bottom: 5%; display: flex; flex-direction: column;}
+ul.nav li{text-align:left; font-weight:300; font-size:22px; line-height:0px; text-decoration: underline;}
+.ctt{display: flex;}
+.ict{display:none}
+.lf{display:flex; flex-direction:column; margin-top:4%; margin-left:8%;}
+.ctt h2{font-size:36pt; line-height:40pt; color:rgba(255, 64, 129, 1);}
+.tf1 input{margin-top:5%; text-align:left; font-size:14pt; line-height:18pt; padding:5px 30px 5px; 
+padding-right:10px; border-radius:10px; border:1px solid rgba(104, 104, 104, 1);}
+.tf2 input{margin-top:1%; text-align:left; font-size:14pt; line-height:18pt; padding:5px 30px 5px;
+padding-right:10px; border-radius:10px; border:1px solid rgba(104, 104, 104, 1);}
+.tf3 input{margin-top:1%; text-align:left; font-size:14pt; line-height:18pt; padding:15px 30px 200px;
+padding-right:10px; border-radius:10px; border:1px solid rgba(104, 104, 104, 1);}
+.btn{margin-top:4%; margin-left:4%; margin-right: 50%; margin-bottom:4%; font-size: 18pt; color:white; border-radius:48px; 
+background-color:rgba(255, 64, 129, 1); padding:10px 10px 10px 40px;}
+.footer{display:flex; flex-direction:column; background-color:rgba(46, 148, 138, 1); color:white;}
+.logo-footer{margin-top:8%; margin-left:8%;}
+.nav-bot{margin-left:-5%; line-height:20pt; font-size:17pt;}
+ul.nav-bot{margin-top:0%; display:flex; flex-flow:column; row-gap:20px; align-items:center;}
+ul.nav-bot li a{padding:4px 30px 4px 30px; color:white; border:2px solid white; border-radius:15px;}
+.area2{margin-top:10%; margin-bottom:5%; margin-left: 10%; flex-direction:row;}
+.button{text-decoration:underline; margin:1%; text-align:center; font-size:14pt; border:0px; padding:2% 1%;}
+.button2{text-decoration:underline; margin:1%; text-align:left; font-size:14pt; box-sizing:border-box; border:0px; padding:2% 1%;}
+}

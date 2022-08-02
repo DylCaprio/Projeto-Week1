@@ -1,0 +1,187 @@
+*{
+    margin: 0%;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    }
+
+.header{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    background-color: rgba(46, 148, 138, 1);
+    color: white;
+}
+.logo-header{
+    margin-top: 2%;
+    margin-left: 7%;
+    margin-bottom: 2%;
+}
+ul.nav li{
+    margin-top: 12%;
+    margin-inline: 2%;
+    font-size: 15pt;
+    font-weight: 700;
+    line-height: 23px;
+    display: inline-flex;
+    cursor: pointer;
+}
+ul.nav li a{
+    color: white;
+}
+.bg h1{
+    font-size: 40pt;
+    color: rgba(255, 64, 129, 1);
+    margin-top: 3%;
+    margin-left: 8%;
+}
+.bg p{
+    font-weight: 300;
+    font-size: 16pt;
+    margin-left: 8%;
+}
+.p2{
+    margin-bottom: 6%;
+    font-weight: 300;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.p2 a{color: white;}
+.investimento{
+    margin-top: 8%;
+    margin-left: 20%;
+}
+.chess{
+    margin-left: -20%;
+    font-weight: 300;
+    font-size: 14pt;
+    line-height:16pt;
+}
+.chess h2{
+    margin-top: 10%;
+    color: rgba(255, 64, 129, 1);
+}
+.chess p{
+    margin-left: 0%;
+    font-size: 14pt;
+    line-height: 16pt;
+    text-align: justify;
+    margin-right: 12%;
+}
+.chess li{
+    display: inline-flex;
+    box-sizing: border-box;
+    border-radius: 62px;
+    color: white;
+    background-color:rgba(65, 148, 136, 1);
+    list-style: none;
+    font-size: 17pt;
+    line-height: 20pt;
+    padding: 15px 60px 15px 60px;
+}
+.poupando{
+    margin-top: 8%;
+    margin-left: 20%;
+}
+.tree{
+    margin-left: -20%;
+    font-weight: 300;
+    font-size: 14pt;
+    line-height:16pt;
+}
+.tree h2{
+    margin-top: 10%;
+    color: rgba(255, 64, 129, 1);
+}
+.tree p{
+    margin-left: 0%;
+    font-size: 14pt;
+    line-height: 16pt;
+    text-align: justify;
+    margin-right: 12%;
+}
+.tree li{
+    display: inline-flex;
+    box-sizing: border-box;
+    border-radius: 62px;
+    color: white;
+    background-color:rgba(65, 148, 136, 1);
+    list-style: none;
+    font-size: 17pt;
+    line-height: 20pt;
+    padding: 15px 60px 15px 60px;
+}
+.independencia{
+    margin-top: 8%;
+    margin-left: 20%;
+}
+.top{
+    margin-left: -20%;
+    font-weight: 300;
+    font-size: 14pt;
+    line-height:16pt;
+}
+.top h2{
+    margin-top: 10%;
+    color: rgba(255, 64, 129, 1);
+}
+.top p{
+    margin-left: 0%;
+    font-size: 14pt;
+    line-height: 16pt;
+    text-align: justify;
+    margin-right: 12%;
+}
+.top li{
+    display: inline-flex;
+    box-sizing: border-box;
+    border-radius: 62px;
+    color: white;
+    background-color:rgba(65, 148, 136, 1);
+    list-style: none;
+    font-size: 17pt;
+    line-height: 20pt;
+    padding: 15px 60px 15px 60px;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgba(46, 148, 138, 1);
+    color: white;
+}
+.logo-footer{
+    margin-top: 8%;    
+    margin-bottom: 6%;
+    margin-left: 15%;
+}
+.nav-bot{
+    margin-top: 10%;
+    line-height: 20pt;
+    font-weight: 300;
+    list-style: none;
+    font-size: 17pt;
+}
+ul.nav-bot li a{
+    color: white;
+}
+.area2{
+    margin-top: 6%;
+    margin-bottom: 6%;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 12px;
+}
+.button{
+    align-items: center;
+    justify-content: center;
+    padding: 15px 75px 15px 75px;
+    font-size: 17pt;
+    border: 2px solid white;
+    border-radius: 48px;
+}
+.button2{
+    padding: 15px 50px 15px 50px;
+    font-size: 17pt;
+    border: 2px solid white;
+    border-radius: 48px;
+}

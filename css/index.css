@@ -1,0 +1,299 @@
+*{
+    margin: 0%;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    }
+
+.header{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    background-color: rgba(46, 148, 138, 1);
+    color: white;
+}
+.logo-header{
+    margin-top: 2%;
+    margin-left: 7%;
+    margin-bottom: 2%;
+}
+ul.nav li{
+    margin-top: 12%;
+    margin-inline: 2%;
+    font-size: 15pt;
+    font-weight: 700;
+    line-height: 23px;
+    display: inline-flex;
+    cursor: pointer;
+}
+ul.nav li a{
+    color: white;
+}
+.p1{
+    margin-left: 10%;
+    margin-top: 8%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: rgba(255, 64, 129, 1);
+}
+.topp h1{
+    font-size: 50pt;
+    line-height: 65pt;
+    font-weight: 700;
+}
+.topp p{
+    color: black;
+    font-size: 24pt;
+    font-weight: 300;
+    line-height: 26pt;
+}
+.topp li{
+    margin-top: 7%;
+    display: inline-flex;
+    font-size: 24pt;
+    font-weight: 300;
+    line-height: 26pt;
+    box-sizing: border-box;
+    border: 2px solid rgba(255, 64, 129, 1);
+    border-radius: 62px;
+    padding: 7px 40px 7px 40px;
+}
+.topp a{
+    color:rgba(255, 64, 129, 1)
+}
+.bg{
+    background: rgba(246, 246, 246, 1);
+}
+.p2{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.investimento{
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.chess{
+    font-weight: 300;
+    font-size: 14pt;
+    line-height:16pt;
+}
+.chess h2{
+    margin-top: 10%;
+    color: rgba(255, 64, 129, 1);
+}
+.chess p{
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 12%;
+}
+.chess li{
+    margin-left: 15%;
+    display: inline-flex;
+    box-sizing: border-box;
+    border-radius: 62px;
+    color: white;
+    background-color: rgba(255, 64, 129, 1);
+    list-style: none;
+    font-size: 17pt;
+    line-height: 20pt;
+    padding: 15px 60px 15px 60px;
+}
+.chess li a{color:  white}
+.poupando{
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.tree{
+    font-weight: 300;
+    font-size: 14pt;
+    line-height:16pt;
+}
+.tree h2{
+    margin-top: 10%;
+    margin-left: 10%;
+    color: rgba(255, 64, 129, 1);
+}
+.tree p{
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 12%;
+}
+.tree li{
+    margin-left: 15%;
+    margin-bottom: 20%;
+    display: inline-flex;
+    box-sizing: border-box;
+    border-radius: 62px;
+    color: white;
+    background-color: rgba(255, 64, 129, 1);
+    list-style: none;
+    font-size: 17pt;
+    line-height: 20pt;
+    padding: 15px 60px 15px 60px;
+}
+.independencia{
+    margin-top: 20%;
+    margin-left: 20%;
+}
+.top{
+    font-weight: 300;
+    font-size: 14pt;
+    line-height:16pt;
+}
+.top h2{
+    margin-top: 10%;
+    margin-left: 5%;
+    color: rgba(255, 64, 129, 1);
+}
+.top p{
+    font-size: 14pt;
+    line-height: 16pt;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 12%;
+}
+.top li{
+    margin-left: 15%;
+    display: inline-flex;
+    box-sizing: border-box;
+    border-radius: 62px;
+    color: white;
+    background-color: rgba(255, 64, 129, 1);
+    list-style: none;
+    font-size: 17pt;
+    line-height: 20pt;
+    padding: 15px 60px 15px 60px;
+}
+.review{
+    margin-top: 5%;
+    margin-left: 5%;
+    color: rgba(0, 150, 136, 1);
+    font-weight: 700;
+    font-size: 15pt;
+    line-height: 35pt;
+}
+.p3{
+    font-weight: 300;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.wall{
+    margin-bottom: 10%;
+    display:flex;
+    align-items: center;
+    column-gap: 10%;
+}
+.jad{
+    margin-bottom: 10%;
+    display:flex;
+    align-items: center;
+    column-gap: 10%;
+}
+.whoo{
+    margin-bottom: 10%;
+    display:flex;
+    align-items: center;
+    column-gap: 10%;
+}
+.jan{
+    margin-bottom: 10%;
+    display:flex;
+    align-items: center;
+    column-gap: 10%;
+}
+.bg2{background: rgba(246, 246, 246, 1);}
+.mais{
+    margin-left: 5%;
+    margin-bottom: 3%;
+    color: rgba(0, 150, 136, 1);
+    font-weight: 700;
+    font-size: 15pt;
+    line-height: 35pt;
+}
+.vid{
+    margin-left: 10%;
+    margin-right: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.primo a{
+    text-align:left;
+    font-size: 18pt;
+    color: rgba(0, 150, 136, 1);
+}
+.primo p{
+    font-weight: 300;
+    margin-right: 10vh;
+    text-align: justify;
+}
+.rumo a{
+    text-align:left;
+    font-size: 18pt;
+    color: rgba(0, 150, 136, 1);
+}
+.rumo p{
+    font-weight: 300;
+    margin-right: 10vh;
+    text-align: justify;
+    margin-bottom: 20%;
+}
+.poupança a{
+    text-align:left;
+    font-size: 18pt;
+    color: rgba(0, 150, 136, 1);
+}
+.poupança p{
+    font-weight: 300;
+    margin-right: 10vh;
+    text-align: justify;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgba(46, 148, 138, 1);
+    color: white;
+}
+.logo-footer{
+    margin-top: 8%;    
+    margin-bottom: 6%;
+    margin-left: 15%;
+}
+.nav-bot{
+    margin-top: 10%;
+    line-height: 20pt;
+    font-weight: 300;
+    list-style: none;
+    font-size: 17pt;
+}
+ul.nav-bot li a{
+    color: white;
+}
+.area2{
+    margin-top: 6%;
+    margin-bottom: 6%;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 12px;
+}
+.button{
+    align-items: center;
+    justify-content: center;
+    padding: 15px 75px 15px 75px;
+    font-size: 17pt;
+    border: 2px solid white;
+    border-radius: 48px;
+}
+.button2{
+    padding: 15px 50px 15px 50px;
+    font-size: 17pt;
+    border: 2px solid white;
+    border-radius: 48px;
+}

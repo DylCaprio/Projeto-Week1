@@ -1,0 +1,27 @@
+@media screen and (max-width: 844px)
+{*{margin: 0%;font-family: 'Ubuntu', sans-serif;text-decoration: none;}
+.header{display:flex; flex-direction:column; background-color:rgba(46, 148, 138, 1); color:white;}
+.logo-header{ margin-top:10%; margin-left:22%; margin-bottom:-5%; max-width:200px; width:auto; height:auto;}
+.nav{margin-bottom: 5%; display: flex; flex-direction: column;}
+ul.nav li{text-align:left; font-weight:300; font-size:22px; line-height:0px; text-decoration: underline;}
+.p2{margin-left:5%; margin-right:5%; display:flex; flex-direction:column;}
+.investimento{margin-top:15%; margin-left:8%;}
+.chess{margin-left:4%;}
+.chess h1{margin-top:5%; margin-left:5%; font-size: 28pt;;line-height:30pt;color:rgba(255, 64, 129, 1);}
+.chess p{font-size: 14pt;line-height:16pt; text-align:justify; margin-left:5%;}
+.va{margin-left:15%; margin-right:10%; display:flex; flex-direction:column;}
+.va iframe{margin-left:-7%; width:auto; height:auto}
+.inv h2{font-size: 20pt;}
+.inv p{font-size: 14pt; line-height: 18pt; text-align: justify; margin-right: 0%;}
+.inv2 h2{font-size: 20pt;}
+.inv2 p{font-size: 14pt; line-height: 18pt; text-align: justify; margin-right: 0%;}
+.inv3 h2{font-size: 20pt;}
+.inv3 p{font-size: 14pt; line-height: 18pt; text-align: justify; margin-right: 0%;}
+.footer{display:flex; flex-direction:column; background-color:rgba(46, 148, 138, 1); color:white;}
+.logo-footer{margin-top:8%; margin-left:8%;}
+.nav-bot{margin-left:-5%; line-height:20pt; font-size:17pt;}
+ul.nav-bot{margin-top:0%; display:flex; flex-flow:column; row-gap:20px; align-items:center;}
+ul.nav-bot li a{padding:4px 30px 4px 30px; color:white; border:2px solid white; border-radius:15px;}
+.area2{margin-top:10%; margin-bottom:5%; margin-left: 10%; flex-direction:row;}
+.button{text-decoration:underline; margin:1%; text-align:center; font-size:14pt; border:0px; padding:2% 1%;}
+.button2{text-decoration:underline; margin:1%; text-align:left; font-size:14pt; box-sizing:border-box; border:0px; padding:2% 1%;}}
